@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_afcea38b49a15f3e6077f356a6db2c665afe6fc5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_7327ab1ebdf9af17954e3518a95d27d1c8347b93/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -45,33 +27,6 @@
         revision="25.0.0"
         sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
         <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_53723c560c4a5bcb0300d5e5a815ee78a08fc1e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ab198bcfb05d7e4df55925098d2e514e9d800c4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_500ee4ad0f014b2ab97c4a677bd869d049a17dad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_678419b54b1f6c5673acb0d91b0aad41c595422e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,21 +57,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_0ed7119dc87735a342972e69ebee48fae8b5b7a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="cb5ecb34fc94de01ea98076938dcf7db6bb1fcec">
         <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ccadb949f75ef4c9ca45df9cc588bbbf01f86a3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f35c826581f2432dca279859bc084ca9e3d4e975/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,20 +84,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_cf8c80b09503c67850e5844d91b3d79133b1f516/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="50c2683e4bf7a2f65c356b36d5a1a551d6869133">
+        sha1="a045317d42caa14fd1a454ad8f5d21305448c25d">
         <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f1b20e22db67c845f11ce6deb2bef8958fe10a0/classes.dex" />
     </item>
     <item
@@ -151,17 +97,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="b064c3f7072ea57218b4f378d192f176ab2b3008">
+        sha1="864488a9cba86221b325a42fb1c698f10cb9ca5e">
         <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_066fe0d253b7ca506be039ca56f37ccbac530eb9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_264eab038385c75d7ca3b60153e46e9440030a5e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,15 +111,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_ce5d08c6636ede8527fc99c95ec0378dc3f43a0b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -192,48 +120,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_5b0655390997200973b4aa77ebe0b2bffaf1c7dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
         <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_7dac1a32cd4c13755d5976d9f1835ed4d5c67c6e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_b4b86daaa784691fb6add7456bfcfed05f09a5cc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_ccf4e7a18fcfcc0c9928137d5e4024edc17dbaab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_17e9f0c4623a9396ef8e5e30c99e819ac96b98b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_cdee3e14bf97d785a472b71330f7850e6435d4f7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -270,6 +171,132 @@
         revision="25.0.0"
         sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
         <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_cbcb4580223051cd722a3280a8bd931894519ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_afcea38b49a15f3e6077f356a6db2c665afe6fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_7327ab1ebdf9af17954e3518a95d27d1c8347b93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ab198bcfb05d7e4df55925098d2e514e9d800c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_500ee4ad0f014b2ab97c4a677bd869d049a17dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_678419b54b1f6c5673acb0d91b0aad41c595422e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_0f0d051609a4647a8f1583de426c4773558b5855/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f35c826581f2432dca279859bc084ca9e3d4e975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_cf8c80b09503c67850e5844d91b3d79133b1f516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_264eab038385c75d7ca3b60153e46e9440030a5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_ce5d08c6636ede8527fc99c95ec0378dc3f43a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_b4b86daaa784691fb6add7456bfcfed05f09a5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_ccf4e7a18fcfcc0c9928137d5e4024edc17dbaab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/josias/Documents/github/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_17e9f0c4623a9396ef8e5e30c99e819ac96b98b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josias/Documents/github/androidTicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_cdee3e14bf97d785a472b71330f7850e6435d4f7/classes.dex" />
     </item>
     <item
         is-multidex="true"
